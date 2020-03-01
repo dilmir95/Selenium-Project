@@ -13,6 +13,8 @@ public class MyFirstSeleniumScript {
 
         driver.get("http://google.com");
 
+        //learning selenium
+        //more comments
 
     }
 }
